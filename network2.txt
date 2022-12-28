@@ -1,0 +1,15 @@
+Commands from hometask
+
+# Command for genetate SSH keys
+1. ssh-keygen 
+
+# Command for create branch 
+2. git checkout -b network_part_2
+
+# Command which created this file
+3. echo "Commands..." > network2.txt
+
+#
+
+
+
